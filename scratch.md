@@ -1,41 +1,52 @@
 # How can Pair Design help set up the teams to ensure collaboration?
 
 # hi!
-I'm Jonathan Berger the associate director designer at Pivotal Labs and I've been here six years.
+- I'm Jonathan Berger
+- associate director designer at Pivotal Labs
+- I've been here six years.
 
 ---
 
-I've worked on about thirty projects which means about thirty cross functional teams.
-That often includes engineering product and design in various capacities.
-One of the things that we've borrowed from the Aglie engineering process that's been really helpful for cross-functional collaboration is pairing.
+- I've worked on about thirty projects which means about thirty cross functional teams.
+- That often includes engineering product and design in various capacities.
+- One of the things that we've borrowed from the Aglie engineering process that's been really helpful for cross-functional collaboration is pairing.
 
 ---
 
-So traditionally pairing two developers sitting down together to do a few things.
-One of them is knowledge transfer.
-Another is to reduce bus count, or rather risk around bus count, which is to say that we want to spread so much knowledge about the project around that we'll lower the number of people who need to get hit by a bus before the project is irretrievably lost because too much silo'd knowledge is splattered
+- pairing == 2 dev sitting down together
+- knowledge transfer.
+- reduce bus count risk
+
+---
+
+- we want to spread so much knowledge about the project around 
+- that we'll lower the number of people who need to get hit by a bus before the project is irretrievably lost 
+- because too much silo'd knowledge is splattered
 
 ---
 
 ## How does pairing differ with design and product?
 
-So we've been doing test-driven development for a long time
-that's led to pair programing for a long time
-with the advent of product and design practice at labs we're starting to find other modes for pairing.
+- So we've been doing test-driven development for a long time
+- that's led to pair programing for a long time
+- with the advent of product and design practice at labs we're starting to find other modes for pairing.
 
 ---
 
-It's a little more difficult to do Red Green Refactor or Ping-Pong pairing
-(which are our standard development methodologies)when there's no testing to be done or no computer code be written.
-We have a few kind of traditional modes for design pairing.
+- It's a little more difficult to do Red Green Refactor or Ping-Pong pairing
+- (which are our standard development methodologies)when there's no testing to be done or no computer code be written.
+- We have a few kind of traditional modes for design pairing.
 
 ---
 
 ## Synth-gen
-The first one being what we borrowed from Cooper who's been doing design pairing for many years.
-They call it synthesizer generator paring or "synth-gen" pairing.
-So generally you're going to have one person who's very focused on creating things; this is the generator.
-So they're going to be  kind of blank slate, blank canvas looking to generate a lot of different possibilities.
+- The first one being what we borrowed from Cooper who's been doing design pairing for many years.
+- They call it synthesizer generator paring or "synth-gen" pairing.
+- So generally you're going to have one person who's very focused on creating things; this is the generator.
+- So they're going to be  kind of blank slate, blank canvas looking to generate a lot of different possibilities.
+
+---
+
 The synthesizers gonna step back a little and try to look to them with more of a navigational view and kind of say "Ok, that's an intersting idea, how's that going to comport with the rest of what we've discussed?" blah blah blah um so that's a mode that generally involves one marker two people at the whiteboard and you might have just one synth for the whole process or you
 [Speaker 4] may have the
 [Speaker 1] too since I've been Generator and the Synthesizer trading off but we usually do this when —in fact we try to do all pairing when decisions need to be made— so if we've already made design decisions which we regard the fundamental unit of our practice; when we need to come up design decisions one when we make design decisions and it's time to enshrine them we'll often divide conquer.

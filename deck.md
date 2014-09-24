@@ -40,6 +40,8 @@ Jonathan Berger, Pivotal Labs
 
 # Why Pair Design?
 
+---
+
 ## Better Design
 - reduce the cost of change
 - encourage convention, reduce trivial decisions
@@ -182,30 +184,22 @@ Jonathan Berger, Pivotal Labs
 ---
 
 
-
-
-[Minimum Viable]: http://pivotallabs.com/minimum-viable-deliverable/
-[DRY documentation]: http://pivotallabs.com/dry-documentation
-[different rhythms]: http://pivotallabs.com/big-design-refactor/
-
+# Questions?
 
 ---
 
-# Cross-Functional pairing
 
-Cross-Functional pairing usually describes a designer and a developer pairing together on styling and front-end code. Pairing across disciplines is crucial for good communication across teams. The knowledge-sharing benefits of cross-functional pairing tend to be even more pronounced than during intra-disciplinary pairing.
+# Thanks!
 
-Traditionally, a designer painstakingly creates a pixel-perfect high-fidelity static mockup, then hands it off to the developer who builds the software, after which the designer looks for errors and red-lines the result. Then, the developer would amend the software to match the redlines, the designer would review the result, and the process would repeat until the designer was satisfied (or exhaustion set in). This process is slow, siloed, and adversarial.
+- <http://jonathanpberger.com/talks>
+- Say hi on twitter at `@jonathanpberger`
+- or `jonathanpberger` on github, gmail, forrst, etc...
 
-By contrast, cross-functional design pairing sits the designer and the developer together at the keyboard to style the software. This has several economies and advantages:
+---
 
-- because the designer is working directly on the full-fidelity software, there's no need to reproduce the design in mock-ups (a time-consuming task),
-- because the work is being done directly on the app, there's no time spent marking up (on the designers part) and decoding (on the developers part) redlines (both time-consuming tasks),
-- because they're pairing and having a conversation, the developer learns the rationales behind the design decisions.
+# Extras!!
 
-Developers are also learning general design theory which helps them make better design decisions when designers aren't available. Meanwhile, the designer learns about the relative cost of implementing various design strategies in the application. They also learn more about implementation, which helps them make design decisions which better fit the technology when developers aren't around.
-
-So far we've only described the efficiencies of Cross-Functional Pairing which make it cheaper and more effective than solo design. Pairing also introduces advantages which aren't available to solo design. When designing in front of working software (rather than static mock-ups), designers are able to generatively experiment and design in real-time. They can play with interactions, make changes at full-fidelity, and be creative in a way that's impossible in a mock-up. Furthermore, the designer and developer are taken from an adversarial context ("You didn't implement my design correctly!" or "this design is inconsistent / bad / not worth the effort") to a collaborative context, which contributes to unit cohesion, a better bus-count, and collective ownership of the product.
+---
 
 ## Balanced Team & Pairing
 - these are not existential claims
@@ -367,6 +361,17 @@ SOMETIMES WE'LL BREAK OUR PAIR, WORK ON SOMETHING SOLO FOR ~20M OR WHEN WE GET S
 ## links
 
 [Joe Moore]: <>
+
+
+
+
+[Minimum Viable]: http://pivotallabs.com/minimum-viable-deliverable/
+[DRY documentation]: http://pivotallabs.com/dry-documentation
+[different rhythms]: http://pivotallabs.com/big-design-refactor/
+
+
+---
+
 
 ---
 <script src="js/impressConsole.js"></script>

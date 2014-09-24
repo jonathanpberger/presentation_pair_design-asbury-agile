@@ -47,7 +47,8 @@
 
 ---
 
-The synthesizers gonna step back a little and try to look to them with more of a navigational view and kind of say "Ok, that's an intersting idea, how's that going to comport with the rest of what we've discussed?" blah blah blah um so that's a mode that generally involves one marker two people at the whiteboard and you might have just one synth for the whole process or you
+- The synthesizers gonna step back and look with more of a navigational view
+-  and kind of say "Ok, that's an intersting idea, how's that going to comport with the rest of what we've discussed?" blah blah blah um so that's a mode that generally involves one marker two people at the whiteboard and you might have just one synth for the whole process or you
 [Speaker 4] may have the
 [Speaker 1] too since I've been Generator and the Synthesizer trading off but we usually do this when —in fact we try to do all pairing when decisions need to be made— so if we've already made design decisions which we regard the fundamental unit of our practice; when we need to come up design decisions one when we make design decisions and it's time to enshrine them we'll often divide conquer.
 
@@ -56,108 +57,108 @@ The synthesizers gonna step back a little and try to look to them with more of a
 
 ## Illustrator pairing
 
-So another mode is two mice plugged into one copy of illustrator.
-two visual designers building a visual design system, 
-i.e. building a visual metaphor for the object domain that they're mapping onto the product.
+- So another mode is two mice plugged into one copy of illustrator.
+- two visual designers building a visual design system, 
+- i.e. building a visual metaphor for the object domain that they're mapping onto the product.
 
 ---
 
-So you'll sit there you'll have an open copy of illustrator, sketch or Photoshop or some graphics program.
-One person will have a mouse and say "I've got an idea let me sketch this out for you" and start working
-the other designers similar to pair programming will say "wait wait hold on, hold off on the mouse for a second, I've got an idea" 
-and you'll riff back and forth and generate many different ideas before honing in on a visual system that's gonna support the application.
+- So you'll sit there you'll have an open copy of illustrator, sketch or Photoshop or some graphics program.
+- One person will have a mouse and say "I've got an idea let me sketch this out for you" and start working
+- the other designers similar to pair programming will say "wait wait hold on, hold off on the mouse for a second, I've got an idea" 
+- and you'll riff back and forth and generate many different ideas before honing in on a visual system that's gonna support the application.
+ 
+---
+
+## Stylesheet Pairing 
+- often called "cross-functional pairing"; that's a misnomer
+- two designers in the text editor, in the browser, working on markup and 
+- starting to enshrine these design decisions and implement them on the front end of the site.
 
 ---
 
-## Stylesheet Pairing (aka "cross-functional")
-
-two designers in the text editor, in the browser, working on markup and 
-starting to enshrine these design decisions and implement them on the front end of the site.
-
----
-
-you'll often have designers cross- functionally pairing with developers as well for this sort of thing.
-When we're working on CSS it's very easy for us to pair 
-and it's very similar to our traditional pair-programming model which we're very compfortable with.
+- you'll often have designers cross- functionally pairing with developers as well for this sort of thing.
+- When we're working on CSS it's very easy for us to pair 
+- and it's very similar to our traditional pair-programming model which we're very compfortable with.
 
 ---
 
 ## Cross-functional pairing
 
-there's an interesting difference that happens when you start to employ cross functional pairing.
-When you've got two designers pairing together there's gonna be some skill transfer, 
-there's gonna be some "Oh, I didn't know that you could do this in CSS" or "Oh, that's an interesting way of structuring things." 
-For the most part it's two designers who are coming from similar disciplinary background and 
-that helps them have a similar literacy with the concerns that they're addressing.
+- there's an interesting difference that happens when you start to employ cross functional pairing.
+- When you've got two designers pairing together there's gonna be some skill transfer, 
+- there's gonna be some "Oh, I didn't know that you could do this in CSS" or "Oh, that's an interesting way of structuring things." 
+- For the most part it's two designers who are coming from similar disciplinary background and 
+- that helps them have a similar literacy with the concerns that they're addressing.
 
 ---
 
-When you sit a designer down next to a developer, that starts to change 
-and you start to do a lot more skill transfer, 
-you start to educate a developer about how whitespace works or what a type scale is or color theory 
-and it becomes a fundamentally different exchange 
+- When you sit a designer down next to a developer, that starts to change 
+- and you start to do a lot more skill transfer, 
+- you start to educate a developer about how whitespace works or what a type scale is or color theory 
+- and it becomes a fundamentally different exchange 
 
 ---
     
-in that you are probably going little slower because you're needing to do some education 
-but you're  probably getting a chance to challenge some assumptions, which can be a really powerful way of working.
+- in that you are probably going little slower because you're needing to do some education 
+- but you're  probably getting a chance to challenge some assumptions, which can be a really powerful way of working.
 
 ---
 
 ## Decision-making (when to pair)
 
-JEANA: It sounds like decisions are being made in pairs. How does that change the role of PM?
-JPB: The Product Manager or the product owner is part of this Balanced team triumvarate.
-So we've got someone representing a technology, someone representing design, someone representing product 
+- JEANA: It sounds like decisions are being made in pairs. How does that change the role of PM?
+- JPB: The Product Manager or the product owner is part of this Balanced team triumvarate.
+- So we've got someone representing a technology, someone representing design, someone representing product 
 
 ---
 
-these are not existential claims 
-It's not  "I am a developer I was born that way" or trained that way, 
-it is "my role on this project developer or designer".
+- these are not existential claims 
+- It's not  "I am a developer I was born that way" or trained that way, 
+- it is "my role on this project developer or designer".
 
 ---
 
-Product people tend to be on the more interdisciplnary side 
-formally speaking on our projects their first obligation is to make sure the backlog is groomed and healthy 
-and the rest of the team can have a healthy conversation around "what do we need to do next? What does that look like? How's it enshrined?" 
+- Product people tend to be on the more interdisciplnary side 
+- formally speaking on our projects their first obligation is to make sure the backlog is groomed and healthy 
+- and the rest of the team can have a healthy conversation around "what do we need to do next? What does that look like? How's it enshrined?" 
 
 ---
     
-When pairing with product designers via Synth-Gen, 
-two people at the whiteboard trading off between high level generative ideas 
-and a more strategic Step-Back, Higher- Level view of "How do these ideas comport with the rest of our system?" 
-that's something that product for the most part can drop into any piece of.
+- When pairing with product designers via Synth-Gen, 
+- two people at the whiteboard trading off between high level generative ideas 
+- and a more strategic Step-Back, Higher- Level view of "How do these ideas comport with the rest of our system?" 
+- that's something that product for the most part can drop into any piece of.
 
 ---
 
-Product tends to be pretty good feedback for some of the illustrator pairing that we'll do 
-they may be less formally trained, they may have less of a sense of color theory, 
-but generally being able to talk through user flows is something that we'll do then and those interactions can be aided by product.
+- Product tends to be pretty good feedback for some of the illustrator pairing that we'll do 
+- they may be less formally trained, they may have less of a sense of color theory, 
+- but generally being able to talk through user flows is something that we'll do then and those interactions can be aided by product.
 
 ---
 ## Pairing on story-writing
-Product also ends up doing a lot of pairing on story writing.
-sitting down and dialectically saying "well, as the user when I go to the item page and I tap the Add Item To Cart button, and the pair of the Product Owner can say "well wait a minute, does that need to be on the item page? Can we have that on the index view?" 
-you get this back and forth that helps write stores
+- Product also ends up doing a lot of pairing on story writing.
+- sitting down and dialectically saying "well, as the user when I go to the item page and I tap the Add Item To Cart button, and the pair of the Product Owner can say "well wait a minute, does that need to be on the item page? Can we have that on the index view?" 
+- you get this back and forth that helps write stores
 
 ---
 
 # How is Cross-functional pairing crucial to running a lean team?
 
-Cross-functional Pairing is crucial to running a lean team 
-because it helps reinforce not only personal relationships and trust among the team 
-and high trust environments are the only environments in which agile and lean methodologies can really work at speed.
+- Cross-functional Pairing is crucial to running a lean team 
+- because it helps reinforce not only personal relationships and trust among the team 
+- and high trust environments are the only environments in which agile and lean methodologies can really work at speed.
 
 ---
 
 ## Cross functional pairing helps on a few axes.
-One axis is bus count 
-which is to say "how many people on your project need to get hit by a bus before you're irretrievably hosed?" 
+- One axis is bus count 
+- which is to say "how many people on your project need to get hit by a bus before you're irretrievably hosed?" 
 
-Another axis that we like to talk about is Knowledge Share.
-you end up starting a project maybe not knowing that much about visual design, 
-but by talking to designers you're learning and adding to your skill set 
+- Another axis that we like to talk about is Knowledge Share.
+- you end up starting a project maybe not knowing that much about visual design, 
+- but by talking to designers you're learning and adding to your skill set 
 
 ---
 

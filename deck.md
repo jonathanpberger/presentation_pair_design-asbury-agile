@@ -1,8 +1,8 @@
 ### Todo
-- [] core practice talk
-- [] blog post
+- [x] core practice talk
+- [x] blog post
+- [x] gdoc of `pairing`
 - [] transcription notes
-- [] gdoc of `pairing`
 
 
 ---

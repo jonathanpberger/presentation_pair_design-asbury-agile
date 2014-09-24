@@ -370,9 +370,14 @@ SOMETIMES WE'LL BREAK OUR PAIR, WORK ON SOMETHING SOLO FOR ~20M OR WHEN WE GET S
 
 ---
 <script src="js/impressConsole.js"></script>
+<script src="js/jquery.js"></script>
 <script>
-    impressConsole().init();
-    // impressConsole().open(); // for console to open automatically
+    $(document).ready(function(){
+      // $("ul").wrap("<div class='notes'></div>");
+      $("blockquote ul").wrap("<div class='notes'></div>");
+      impressConsole().init();
+      // impressConsole().open(); // for console to open automatically
+    });
 </script>
 
 

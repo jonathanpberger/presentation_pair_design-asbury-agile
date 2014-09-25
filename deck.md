@@ -182,11 +182,13 @@ Jonathan Berger, Pivotal Labs
 ---
 
 
-# Thanks!
+## Thanks!
 
-- <http://jonathanpberger.com/talks>
-- Say hi on twitter at `@jonathanpberger`
-- or `jonathanpberger` on github, gmail, forrst, etc...
+### <http://jonathanpberger.com/talks>
+
+### Say hi on twitter at @jonathanpberger
+
+### or jonathanpberger on github, gmail, forrst, etc...
 
 ---
 

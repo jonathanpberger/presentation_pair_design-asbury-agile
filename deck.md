@@ -5,7 +5,7 @@
 
 # Pair Design for Fun and Profit
 
-IxDA Grand Rapids, 2014
+Asbury Agile, 2014
 
 Jonathan Berger, Pivotal Labs
 

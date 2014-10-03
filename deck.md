@@ -97,6 +97,24 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
+![Synth / Gen](images/synth-gen.gif)
+
+- two people, one marker (cursor)
+- "Generator" has marker in hand, tends to come up with ideas.
+- "Synthesizer" stands back, asking questions, probing edge cases, keeping the big picture in context.
+- map out feature sets or user-flows at about the epic level of granularity.
+
+---
+
+![Synth / Gen](images/synth-gen2.gif)
+
+- two people, one marker (cursor)
+- "Generator" has marker in hand, tends to come up with ideas.
+- "Synthesizer" stands back, asking questions, probing edge cases, keeping the big picture in context.
+- map out feature sets or user-flows at about the epic level of granularity.
+
+---
+
 ## Medium-Fidelity Illustrator Pairing
 
 - when whiteboard-fidelity is no longer sufficient to make design decisions,
@@ -107,10 +125,34 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
+![Design Pair](images/design-pair-1.gif)
+
+---
+
+![Design Pair](images/design-pair-2.gif)
+
+---
+
+![Design Pair](images/design-pair-3.gif)
+
+---
+
+![Design Pair](images/design-pair-4.gif)
+
+---
+
 ## Stylesheet Pairing
 - often called "cross-functional pairing"; that's a misnomer
 - two designers in the text editor, in the browser, working on markup
 - enshrine design decisions and implement them on the front end of the site
+
+---
+
+![Office Pairing](images/office-pairing-2.gif)
+
+---
+
+![Office Pairing](images/office-pairing.gif)
 
 ---
 
@@ -176,6 +218,15 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
+## Switch-hit pairing
+
+- two projects, two designers
+- solo mostly, but have context
+- support each other when decisions need to be made
+- block out ~1hr / day
+
+---
+
 
 # Questions?
 
@@ -227,6 +278,46 @@ Jonathan Berger, Pivotal Labs
 
 
 <!-- END OFtrying to take the Pair Design at Pivotal Labs doc as the structure -->
+
+---
+
+# Pics (or it didn't happen)
+
+---
+
+![Card Sorting](images/card-sorting-2.gif)
+
+---
+
+![Card Sorting](images/card-sorting.gif)
+
+---
+
+![Design Office Hours](images/design-office-hours.gif)
+
+---
+
+![Hurricane Sandy](images/hurricane-sandy.gif)
+
+---
+
+![Remote Pairing](images/remote-pairing.gif)
+
+---
+
+![Sitting Standing](images/sitting-standing.gif)
+
+---
+
+![Stunt Pairing](images/stunt-pairing.gif)
+
+---
+
+![Tete-a-tete](images/tete-a-tete.gif)
+
+---
+
+![Tete-a-tete](images/tete-a-tete2.gif)
 
 ---
 

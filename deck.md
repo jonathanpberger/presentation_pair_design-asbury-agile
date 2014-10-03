@@ -192,6 +192,8 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
+---
+
 # Extras!!
 
 ---
@@ -230,10 +232,9 @@ Jonathan Berger, Pivotal Labs
 
 ## links
 
-[Joe Moore]: <>
-[Minimum Viable]: http://pivotallabs.com/minimum-viable-deliverable/
-[DRY documentation]: http://pivotallabs.com/dry-documentation
-[different rhythms]: http://pivotallabs.com/big-design-refactor/
+[Minimum Viable]: <http://pivotallabs.com/minimum-viable-deliverable/>
+[DRY documentation]: <http://pivotallabs.com/dry-documentation>
+[different rhythms]: <http://pivotallabs.com/big-design-refactor/>
 
 
 ---

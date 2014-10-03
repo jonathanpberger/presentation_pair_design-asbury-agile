@@ -289,15 +289,7 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-![Card Sorting](images/card-sorting-2.gif)
-
-- card sorting
-
----
-
-![Card Sorting](images/card-sorting.gif)
-
-- card sorting
+## Pair Anywhere
 
 ---
 
@@ -313,9 +305,19 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
+![Stunt Pairing](images/stunt-pairing.gif)
+
+- stunt pairing
+
+---
+
 ![Remote Pairing](images/remote-pairing.gif)
 
 - remote pairing
+
+---
+
+## Pairing Arrangements
 
 ---
 
@@ -325,22 +327,21 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-![Stunt Pairing](images/stunt-pairing.gif)
-
-- stunt pairing
-
----
-
 ![Tete-a-tete](images/tete-a-tete.gif)
 
 - Tete-a-tete
 
 ---
 
-![Tete-a-tete](images/tete-a-tete2.gif)
+![Card Sorting](images/card-sorting-2.gif)
 
-- Tete-a-tete
+- card sorting
 
+---
+
+![Card Sorting](images/card-sorting.gif)
+
+- card sorting
 
 ---
 
